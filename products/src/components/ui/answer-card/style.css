@@ -1,0 +1,46 @@
+.answer-card {
+	padding: 10px 10px;
+	border-radius: 10px;
+}
+
+.answer-card--green {
+	background-color: #e1edce;
+}
+
+.answer-card--red {
+	background-color: #f8ddd7;
+}
+
+.answer-card__title {
+	position: relative;
+}
+
+.answer-card__decription {
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+
+.answer-card--green span {
+	background-color: #88aa4d;
+	color: #fff;
+}
+
+.answer-card--red span {
+	background-color: #f75531;
+}
+
+.answer-card__title-wrapper {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+/* .answer-card__title::before {
+	position: absolute;
+	top: 5px;
+	left: 0;
+	content: '';
+	width: 52px;
+	height: 52px;
+	background-image: url('./src/assets/eat_1.svg');
+} */

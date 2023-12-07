@@ -1,0 +1,27 @@
+.answer-list {
+	width: 1280px;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	background-position: left bottom;
+	background-size: 449px 304px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.answer-list__list {
+	display: grid;
+	grid-template-columns: 540px 540px;
+	gap: 20px;
+	list-style: none;
+	padding: 0;
+	padding-top: 100px;
+}
+
+.answer-list__item {
+	padding: 10px 10px;
+	display: flex;
+}
