@@ -1,4 +1,4 @@
-const answers = [
+export const answers = [
 	{
 		id: 0,
 		title: 'Еда намного вкуснее',
@@ -28,5 +28,3 @@ const answers = [
 		feature: 'Магазинные продукты',
 	},
 ];
-
-export default answers;

@@ -4,6 +4,7 @@ export const TitleSize = {
 	BIG: 'big',
 	SMALL: 'small',
 	DEFAULT: '',
+	EXTRA_SMALL: 'extra',
 };
 
 const Title = ({ children, size }) => {

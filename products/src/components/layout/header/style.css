@@ -17,3 +17,10 @@ header {
 	align-items: center;
 	z-index: 5;
 }
+
+.leftContainer {
+	width: 353px;
+	padding-right: 20px;
+	overflow-y: overlay;
+	max-height: 100%;
+}

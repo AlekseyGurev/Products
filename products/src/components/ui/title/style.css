@@ -13,3 +13,9 @@
 .title_big {
 	font-size: 44px;
 }
+
+.title_extra {
+	margin-bottom: 10px;
+	font-size: 18px;
+	line-height: 27px;
+}
